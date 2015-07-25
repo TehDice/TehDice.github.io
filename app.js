@@ -61,12 +61,12 @@ helpers.calcNumber = function(cond, winProb) {
   console.assert(cond === '<' || cond === '>');
   console.assert(typeof winProb === 'number');
 
-  /*if (cond === '<') {
+  if (cond === '<') {
     return winProb * 100;
   } else {
     return 99.99 - (winProb * 100);
   }
-};*/
+};
 
 helpers.roleToLabelElement = function(role) {
   switch(role) {
