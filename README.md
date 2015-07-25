@@ -1,4 +1,4 @@
-# untitled-dice
+# TehDice
 
 ##### Live demo: https://untitled-dice.github.io
 
