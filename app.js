@@ -6,7 +6,7 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 477,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'TehDice',
+  app_name: 'TehDice - A simple bitcoin dice',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6LcQUgoTAAAAAGD_O01yOEauQ-G4gJVDTsP9pVVJ',  // <----- EDIT ME!
